@@ -1,0 +1,32 @@
+body {
+    background-color: #e0e0e0; /* Adjusted to blend with the image */
+}
+
+/* Styling the heading */
+.main-heading {
+    font-family: Arial, sans-serif;
+    color: #b8860b; /* Darker shade of gold */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Styling the paragraph */
+#intro {
+    font-size: 18px;
+    color: #555;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Styling the image */
+.styled-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    border: 3px solid #2c3e50;
+    padding: 5px;
+    border-radius: 10px;
+}
